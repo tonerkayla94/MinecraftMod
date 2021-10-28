@@ -9,6 +9,7 @@ public class Main implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
+
 		System.out.println("Hello Fabric world!");
 	}
 }
