@@ -6,7 +6,7 @@ Snack Break?
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A Minecraft Mod that lets you buy, eat, and make food and drinks. We will provide more ingredients and cooking options.
+A Minecraft Mod that lets you buy, eat, and make food and snacks. We will provide more ingredients and cooking options.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
@@ -37,4 +37,4 @@ We hope that we can add cooking options that affect the overall health effects/b
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one or two classmates, who will do what?
 
-Our nexr steps is to learn more about graphics and inheritance. Lilly plans to review the syntax and basic foundation of Java. Additionally, she plans to research more on graphics, such as how to create and implement them into this program. Kayla plans to look into mod softwares we will use to implement our code. She is also going to refresh her memory on basic Java skills. She is going to research more into inheritance as it is a significant part of our program.  
+Our next steps is to learn more about graphics and inheritance. We both plan to review and refresh our memories on the syntax and basic foundation of Java. Lilly plans to research more on graphics, such as how to create and implement them into this program, to make sure our graphics are smooth and functional. Kayla plans to look into mod softwares we will use to implement our code. She is also going to research more into inheritance as it is a significant part of our program.  
