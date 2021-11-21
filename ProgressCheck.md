@@ -26,4 +26,4 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What problems, if any, have you encountered?
 
-## We have encountered some difficulty implementing the graphics into the framework and having it interaact with the player and game environment. 
+## We have encountered some difficulty implementing the graphics into the framework and having it interact with the player and game environment. 
