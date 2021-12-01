@@ -6,11 +6,11 @@ Snack Break?
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A Minecraft Mod that lets you buy, eat, and make food and drinks. We will provide more ingredients and cooking options.
+A Minecraft Mod that lets you buy, eat, and make food and snacks. We will provide more ingredients and cooking options.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+We plan to use Intelligi, coding in Java, to create a Minecraft Mod. Our Mod will offer more food options for players, such as flour, salt, dough, and cheese. With more options, players can customize their snacks or meals. Our program will allow users to collect previous Minecraft food options and make recipes to create new foods. To achieve this, we are going to utilize Fabric to add more features to the game. We aim to add cooking options and health benefits that will either help or harm the player. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -37,5 +37,4 @@ We hope that we can add cooking options that affect the overall health effects/b
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one or two classmates, who will do what?
 
-Lilly: Since we are working in Java, I need to review the syntax and basic foundation of the programming language. I need to research more about creating and implementing graphics to successfully make it a Minecraft Mod.
-Kayla: I'll be looking into what mod software we will use to implement our code, and will need to refresh my memory on basic Java skills I learned last year. THe biggest thing I think I'll have to look into is inheritance. 
+Our next steps is to learn more about graphics and inheritance. We both plan to review and refresh our memories on the syntax and basic foundation of Java. Lilly plans to research more on graphics, such as how to create and implement them into this program, to make sure our graphics are smooth and functional. Kayla plans to look into mod softwares we will use to implement our code. She is also going to research more into inheritance as it is a significant part of our program.  
