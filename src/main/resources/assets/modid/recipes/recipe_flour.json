@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " W ",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {},
+  "item": "cooking: models/item/flour",
+  "count": 4,
+
+  "source": {
+    "link": "https://fabricmc.net/wiki/tutorial:recipes"
+  }
+}
+

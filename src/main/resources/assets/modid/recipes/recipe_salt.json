@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "cooking:salt ore"
+  },
+  "result": "cooking:salt",
+  "experience": 0.15,
+  "cookingtime": 200,
+
+  "source": {
+    "link": "https://fabricmc.net/wiki/tutorial:recipe_types_introduction"
+  }
+}

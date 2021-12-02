@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "modid:models/item/dough"
+    "layer0": "modid:item/dough"
   }
-`
-  }
+
+}
