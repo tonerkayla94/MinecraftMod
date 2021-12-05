@@ -3,14 +3,15 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Cooking Mod",
+  "name": "Snack Break!",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "Lily Hewitt and Kayla Toner"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/tonerkayla94/MinecraftMod",
+    "source 1": "https://github.com/FabricMC/fabric-example-mod",
+    "source 2": "https://www.youtube.com/watch?v=gJmewjh3DiY&ab_channel=TechnoVision"
   },
 
   "license": "CC0-1.0",

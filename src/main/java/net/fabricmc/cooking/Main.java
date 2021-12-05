@@ -20,7 +20,12 @@ public class Main implements ModInitializer {
 	public static final Item BUTTER = new Item(new Item.Settings().group(ItemGroup.FOOD));
 	public static final Item CHEESE = new Item(new Item.Settings().group(ItemGroup.FOOD));
 	public static final Item CREAM = new Item(new Item.Settings().group(ItemGroup.FOOD));
-
+	public static final Block SALT_ORE = new Block(FabricBlockSettings
+			.of(Material.STONE)
+			.breakByTool(FabricToolTags.PICKAXES, 1)
+			.requiresTool()
+			.strength(3.0f, 15.0f)
+			.sounds(BlockSoundGroup.STONE));
 	//
 
 	@Override
