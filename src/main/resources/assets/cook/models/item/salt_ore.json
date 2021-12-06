@@ -1,6 +1,3 @@
 {
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "cook:blocks/salt_ore"
-  }
+  "parent": "cook: block/salt_ore"
 }

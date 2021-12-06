@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "cook:item/butter"
+    "layer0": "cook:items/butter"
   }
 
 }
