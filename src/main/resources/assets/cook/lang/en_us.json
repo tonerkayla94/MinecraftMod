@@ -11,5 +11,7 @@
 
   "item.cook.cream": "Cream",
 
-  "block.cook.salt_ore": "Salt Ore"
+  "block.cook.salt_ore": "Salt Ore",
+
+  "item.cook.toast": "Toast"
 }
